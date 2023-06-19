@@ -1,11 +1,11 @@
 <h1 align="center">Hola👋, Mi nombre es Jaime Hoyos</h1>
 <h3 align="center">Soy un apasionado por desarrollo Back-end</h3>
 
-- 💬 Ask me about **Mysql,Java,Python,Spring Boot**
+- 💬 Ask me about  **Mysql,Java,Python,Spring Boot**
 
-- 📫 How to reach me **jaimehoyos804@gmail.com**
+- 📫 How to reach me  **jaimehoyos804@gmail.com**
 
-- 📄 Know about my experiences [Aunque aún no cuento con experiencia profesional, he dedicado tiempo y esfuerzo a adquirir conocimientos en desarrollo de software de forma autodidacta. He trabajado en diversos proyectos personales para aplicar y fortalecer mis habilidades en lenguajes como Java, Python y SQL. Estoy entusiasmado por comenzar a adquirir experiencia en proyectos reales y seguir aprendiendo de forma colaborativa.](Aunque aún no cuento con experiencia profesional, he dedicado tiempo y esfuerzo a adquirir conocimientos en desarrollo de software de forma autodidacta. He trabajado en diversos proyectos personales para aplicar y fortalecer mis habilidades en lenguajes como Java, Python y SQL. Estoy entusiasmado por comenzar a adquirir experiencia en proyectos reales y seguir aprendiendo de forma colaborativa.)
+- 📄 Know about my experiences [Aunque aún no cuento con experiencia profesional, he dedicado tiempo y esfuerzo a adquirir conocimientos en desarrollo de software de forma autodidacta. He trabajado en diversos proyectos personales para aplicar y fortalecer mis habilidades en lenguajes como Java, Python y SQL. Estoy entusiasmado por comenzar a adquirir experiencia en proyectos reales y seguir aprendiendo de forma colaborativa.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
